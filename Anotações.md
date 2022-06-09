@@ -432,6 +432,14 @@ Ambiente de Desenvolvimento
 staging area
 local repository
 
+---
+## Adicionando um repositório no GitHub
+
+1. Criar um repositório no GitHub
+2. "git remote add origin linkdoGitHub"
+3. "git remote -v"
+4. "git push origin master"
+
 
 ---
 ---
